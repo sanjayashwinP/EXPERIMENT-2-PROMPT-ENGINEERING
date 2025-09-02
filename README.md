@@ -1,5 +1,6 @@
 # EXP-2-PROMPT-ENGINEERING-
-
+### Name:Sanjay Ashwin P
+### Reg no:212223040181
 ## Aim: 
 Comparative Analysis of different types of Prompting patterns and explain with Various Test Scenarios
 
@@ -61,7 +62,8 @@ Analyze the quality, accuracy, and depth of the generated responses.
 * Compare strengths, weaknesses, and best-fit scenarios.
 
 ## Output
-[sanjay ashwin ex2 prompt engineering.pdf](https://github.com/user-attachments/files/22057568/sanjay.ashwin.ex2.prompt.engineering.pdf)
+
+[Sanjay Ashwin Prompting_Patterns_Comparative_Analysis.pdf](https://github.com/user-attachments/files/22095092/Sanjay.Ashwin.Prompting_Patterns_Comparative_Analysis.pdf)
 
 ## Result
 This experiment demonstrates that the way a prompt is structured strongly impacts the output of Generative AI systems. Broad prompts → produce vague, shallow, and sometimes irrelevant responses. Instructional, Role-based, and CoT prompts → significantly improve accuracy, depth, and clarity. Few-shot prompting adds adaptability, while zero-shot is useful for quick queries.
